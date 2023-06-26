@@ -1,1 +1,3 @@
+# Sistema Bancário Otimizado
+
 Essa é uma versão melhorada do código anterior, onde foram feitas melhorias para torná-lo mais organizado e compreensível. Agora, as funcionalidades do programa estão divididas em diferentes funções, o que facilita a leitura e o entendimento do código. Além disso, foram adicionadas mensagens de feedback para informar o resultado das operações realizadas, como depósitos e saques. Também foram feitas melhorias no fluxo de execução do programa, permitindo que o usuário crie novos usuários, contas bancárias e visualize extratos. Uma das melhorias inclui o uso de decoradores, que ajudam a especificar como os argumentos das funções devem ser interpretados, tornando o código mais claro e intuitivo.
